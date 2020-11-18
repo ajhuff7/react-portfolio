@@ -1,0 +1,12 @@
+.card-footer {
+    background-color:rgb(0, 0, 0);
+    opacity: .7;
+    position: sticky; 
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    box-shadow: 0px 0px 8px #f7e27b;
+    -moz-box-shadow: 0px 0px 8px #f7e27b;
+    -webkit-box-shadow: 0px 0px 8px #f7e27b;
+    z-index: 3; 
+}
