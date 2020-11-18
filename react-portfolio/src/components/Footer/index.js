@@ -5,7 +5,7 @@ import "./style.css";
 function Footer(props) {
     return (  
   
-        <footer className="position:sticky card-footer text-center bg-secondary border-top border-info text-info">© Copyright</footer>
+        <footer className="card-footer text-center text-warning">© Copyright</footer>
       
     )}
    
