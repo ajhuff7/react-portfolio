@@ -21,10 +21,9 @@ function AboutMe(props) {
                             Node.js;
                             plus modern libraries and frameworks. Creative thinker who believes adaptability is key.
                             Passionate
-                            about collaborating closely with a team to support projects during all phases of
-                        delivery.</h2>
+                            about collaborating closely with a team to support projects during all phases of delivery.</h2>
                             <br />
-                            <h3> AJ lives in San Francisco, California and is the author of the Medium blog, "Code Black
+                            <h3>AJ lives in San Francisco, California and is the author of the Medium blog, "Code Black
                             Boy".</h3>
                             <br />
 
