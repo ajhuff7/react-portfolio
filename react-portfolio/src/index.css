@@ -1,8 +1,7 @@
-body {
-  /* background-image: url("../assets/bg.PNG"); */
+.body {
   width: 100%;
   height: 100%;
   background-size: cover;
-  z-index: 2;
+  z-index: 0;
   position: fixed;
 }

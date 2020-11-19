@@ -3,22 +3,19 @@ import "./style.css";
 
 function Header(props) {
     return (
-        <div className="container">
-            <div className="columns">
-                <div className="column is-one-quarter has-text-centered">
+        <div className="container" id="header">
+            <div className="row">
+                <div className="col">
                     <img className="item img-thumbnail" src="assets/AJ2.png" alt="AJ Huff"></img>
                 </div>
-                <div className="column is-one-quarter has-text-centered">
-                    <h1 className="link has-text-warning" id="about">ABOUT ME</h1>
-                    <button className="button is-warning is-small is-outlined is-rounded" id="about">About Me</button>
+                <div className="col text-center">
+                    <a className="h5 link text-warning" href="/About" id="bio">ABOUT</a>
                 </div>
-                <div className="column is-one-quarter has-text-centered">
-                    <a className="link has-text-warning" href="portfolio.html" id="portfolio">PORTFOLIO</a>
-                    <button className="button is-danger is-small is-outlined  is-rounded" id="portfolio">Portfolio</button>
+                <div className="col text-center">
+                    <a className="h5 link text-warning" href="/Portfolio" id="portfolio">PORTFOLIO</a>
                 </div>
-                <div className="column is-one-quarter has-text-centered">
-                    <h1 className="link has-text-warning" id="contact">CONTACT ME</h1>
-                    <button className="button is-danger is-small is-outlined  is-rounded" id="contact">Contact</button>
+                <div className="col text-center">
+                    <a className="h5 link text-warning" href="/Contact" id="contact">CONTACT</a>
                 </div>
             </div>
         </div>
