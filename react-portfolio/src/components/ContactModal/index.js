@@ -3,11 +3,11 @@ import "./style.css";
 
 
 
-function ContactModal() {
+function ContactModal(props) {
 
     return (
 
-        <div className="card text-warning text-center rounded" id="contact">
+        <div className="card text-warning text-center rounded" id="contactmodal">
             <div className="card-body">
                 <h3 className="card-title">Contact</h3>
                 <br />

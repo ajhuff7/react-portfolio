@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import Index from "./components/pages/Index"
 import Portfolio from "./components/pages/Portfolio"
-import ContactMe from "./components/pages/Contact"
+import Contact from "./components/pages/Contact"
 import bg from './bg.PNG';
 import {
   BrowserRouter,
@@ -20,7 +20,7 @@ class App extends Component {
           <img src={bg} alt="background" width="100%" height="100%" top="-10" left="-10" />
           <Route exact path="/" component={Index} />
           <Route path="/Portfolio" component={Portfolio} />
-          <Route path="/Contact" component={ContactMe} />
+          <Route path="/Contact" component={Contact} />
         </body>
       </BrowserRouter>
 

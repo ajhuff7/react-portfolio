@@ -4,7 +4,7 @@ import Footer from "../../Footer";
 import ContactModal from "../../ContactModal";
 import Wrapper from "../../Wrapper";
 
-class ContactMe extends Component {
+class Contact extends Component {
 
 
 
@@ -21,4 +21,4 @@ class ContactMe extends Component {
     }
 }
 
-export default ContactMe;
+export default Contact;

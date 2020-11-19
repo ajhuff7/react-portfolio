@@ -9,7 +9,7 @@ function Header(props) {
                     <img className="item img-thumbnail" src="assets/AJ2.png" alt="AJ Huff"></img>
                 </div>
                 <div className="col text-center">
-                    <a className="h5 link text-warning" href="/Index" id="bio">ABOUT</a>
+                    <a className="h5 link text-warning" href="/About" id="bio">ABOUT</a>
                 </div>
                 <div className="col text-center">
                     <a className="h5 link text-warning" href="/Portfolio" id="portfolio">PORTFOLIO</a>
