@@ -2,18 +2,35 @@
 
     background-color:rgb(9, 9, 9);
     opacity: .9;
-    width: 50%;
-    height: 50%;
-    top: 30%;
+    width: 95%;
+    height: 30%;
+    top: 20%;
     bottom: 30px;
-    margin-left: 23%;
-    margin-right: 57%;
-    z-index: 25;
+    margin: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    z-index: 50;
     position: fixed;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    box-shadow: 0px 0px 4px #f7e27b;
+    -moz-box-shadow: 0px 0px 4px #f7e27b;
+    -webkit-box-shadow: 0px 0px 4px #f7e27b;
+}
+
+.card-img-top {
+    background-color:rgb(9, 9, 9);
+    opacity: .9;
+    width: 12%;
+    height: 15vw;
+    z-index: 50;
+    position: relative;
     border-radius: 4px;
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
     box-shadow: 0px 0px 8px #f7e27b;
     -moz-box-shadow: 0px 0px 8px #f7e27b;
     -webkit-box-shadow: 0px 0px 8px #f7e27b;
+
 }

@@ -5,7 +5,7 @@ import "./style.css";
 function Footer(props) {
     return (  
   
-        <footer className="card-footer text-center text-warning">© Copyright</footer>
+        <footer className="container-fluid text-center text-info fixed-bottom">© 2020</footer>
       
     )}
    
