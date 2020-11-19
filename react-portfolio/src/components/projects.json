@@ -1,50 +1,45 @@
 [
     {
       "id": 1,
-      "name": "NAME1",
+      "name": "1UP-DB",
       "image": "/assets/1updb.PNG",
       "link": "https://oneupdb.herokuapp.com/"
     },
     {
         "id": 2,
-        "name": "NAME2",
-        "image": "/assets/1updb.PNG",
-        "link": "https://oneupdb.herokuapp.com/"
+        "name": "WORKOUT",
+        "image": "/assets/workout1.PNG",
+        "link": "https://still-brook-83003.herokuapp.com/"
       },
       {
         "id": 3,
-        "name": "NAME3",
-        "image": "/assets/1updb.PNG",
+        "name": "BURGRLNGE",
+        "image": "/assets/bl1.PNG",
         "link": "https://ajhuff7.github.io/burger_lounge/"
       },
       {
         "id": 4,
-        "name": "NAME4",
-        "image": "/assets/1updb.PNG",
+        "name": "ESCAPEPLAN",
+        "image": "/assets/tep1.png",
         "link": "https://ajhuff7.github.io/the-escape-plan/"
       },
       {
         "id": 5,
-        "name": "NAME5",
-        "image": "/assets/1updb.PNG",
+        "name": "CODEQUIZ",
+        "image": "/assets/mts.png",
         "link": "https://ajhuff7.github.io/Code-Quiz/"
       },
       {
         "id": 6,
-        "name": "NAME6",
-        "image": "/assets/1updb.PNG",
+        "name": "SCHEDULER",
+        "image": "/assets/Work.JPG",
         "link": "https://ajhuff7.github.io/work-day-scheduler/"
       },
       {
         "id": 7,
-        "name": "NAME7",
-        "image": "/assets/1updb.PNG",
+        "name": "DIRECTORY",
+        "image": "/assets/onsite1.PNG",
         "link": "https://pacific-journey-56718.herokuapp.com/"
-      },
-      {
-        "id": 8,
-        "name": "NAME8",
-        "image": "/assets/Avengers.PNG",
-        "link": "https://still-brook-83003.herokuapp.com/"
       }
+
 ]

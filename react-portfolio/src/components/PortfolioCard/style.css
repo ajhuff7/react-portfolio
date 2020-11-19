@@ -1,9 +1,8 @@
-#PortfolioCard {
+.card {
 
-    background-color:rgb(9, 9, 9);
-    opacity: .9;
-    width: 95%;
-    height: 30%;
+    background-color:rgba(9, 9, 9, 0.098);
+    width: 90%;
+    height: 75%;
     top: 20%;
     bottom: 30px;
     margin: auto;
@@ -14,23 +13,23 @@
     border-radius: 4px;
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
-    box-shadow: 0px 0px 4px #f7e27b;
-    -moz-box-shadow: 0px 0px 4px #f7e27b;
-    -webkit-box-shadow: 0px 0px 4px #f7e27b;
+    box-shadow: 0px 0px 8px #f7e27b;
+    -moz-box-shadow: 0px 0px 8px #f7e27b;
+    -webkit-box-shadow: 0px 0px 8px #f7e27b;
 }
 
 .card-img-top {
     background-color:rgb(9, 9, 9);
-    opacity: .9;
-    width: 12%;
-    height: 15vw;
+    width: 250px;
+    height: 200px;
     z-index: 50;
     position: relative;
     border-radius: 4px;
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
-    box-shadow: 0px 0px 8px #f7e27b;
-    -moz-box-shadow: 0px 0px 8px #f7e27b;
-    -webkit-box-shadow: 0px 0px 8px #f7e27b;
+    box-shadow: 0px 0px 4px #f7e27b;
+    -moz-box-shadow: 0px 0px 4px #f7e27b;
+    -webkit-box-shadow: 0px 0px 4px #f7e27b;
+    
 
 }
