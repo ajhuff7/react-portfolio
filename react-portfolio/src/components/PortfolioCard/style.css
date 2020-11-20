@@ -1,21 +1,21 @@
 .card {
 
-    background-color:rgba(9, 9, 9, 0.098);
+    background-color:rgba(9, 9, 9, 0.126);
     width: 90%;
-    height: 75%;
-    top: 20%;
+    height: 60%;
+    top: 35%;
     bottom: 30px;
     margin: auto;
     margin-left: 5%;
     margin-right: 5%;
     z-index: 50;
     position: fixed;
-    border-radius: 4px;
-    -moz-border-radius: 4px;
-    -webkit-border-radius: 4px;
-    box-shadow: 0px 0px 8px #f7e27b;
-    -moz-box-shadow: 0px 0px 8px #f7e27b;
-    -webkit-box-shadow: 0px 0px 8px #f7e27b;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    box-shadow: 0px 0px 4px #f7e27b;
+    -moz-box-shadow: 0px 0px 4px #f7e27b;
+    -webkit-box-shadow: 0px 0px 4px #f7e27b;
 }
 
 .card-img-top {
