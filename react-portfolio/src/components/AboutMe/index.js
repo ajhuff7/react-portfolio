@@ -3,7 +3,7 @@ import "./style.css";
 
 
 
-function AboutMe(props) {
+function AboutMe() {
 
     return (
         <div className="card text-warning text-center rounded"  id="about">

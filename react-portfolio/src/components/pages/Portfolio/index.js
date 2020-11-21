@@ -4,6 +4,7 @@ import Footer from "../../Footer";
 import PortfolioCard from "../../PortfolioCard"
 import projects from "../../projects.json"
 import Wrapper from "../../Wrapper";
+import CardCase from "../../CardCase";
 
 class Portfolio extends Component {
 
@@ -18,6 +19,7 @@ class Portfolio extends Component {
 
             <Wrapper>
                 <Header />
+                <CardCase >
                 {this.state.projects.map(assignment => (
                     <PortfolioCard
                         id={assignment.id}
@@ -26,6 +28,7 @@ class Portfolio extends Component {
                         link={assignment.link}
                     />
                 ))}
+                </CardCase>
                 <Footer />
             </Wrapper>
 
