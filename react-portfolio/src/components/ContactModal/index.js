@@ -14,6 +14,7 @@ function ContactModal(props) {
                 <h4 className="card-subtitle mb-2 text-muted">ajhuff7@gmail.com</h4>
                 <h4 className="card-subtitle mb-2 text-muted">619.518.5064</h4>
                 <br />
+                <br />
                 <a className="h5 text-info" href="https://github.com/ajhuff7">GitHub Repository </a>
                 <br />
                 <br />

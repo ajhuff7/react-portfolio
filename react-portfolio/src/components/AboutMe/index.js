@@ -6,7 +6,7 @@ import "./style.css";
 function AboutMe() {
 
     return (
-        <div className="card text-warning text-center rounded"  id="about">
+        <div className="card text-warning text-center rounded" id="about">
             <div className="card-body">
                 
                     <h4 className="card-subtitle mb-2 text-muted">AJ Huff is an ambitious Front End Developer with an interest in UX/UI design who hopes

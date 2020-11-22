@@ -1,28 +1,10 @@
-.card-body {
-
-    background-color:rgba(9, 9, 9, 0.126);
-    width: 50px;
-    height: 30px;
-    top: 10px;
-    /* bottom: 10px; */
-    /* margin: 1rem; */
-    z-index: 100;
-    float: left;
-    border-radius: 3px;
-    -moz-border-radius: 3px;
-    -webkit-border-radius: 3px;
-    box-shadow: 0px 0px 4px #f7e27b;
-    -moz-box-shadow: 0px 0px 4px #f7e27b;
-    -webkit-box-shadow: 0px 0px 4px #f7e27b;
-}
-
 .card {
     background-color:rgba(9, 9, 9, 0.29);
     margin-left: 5px;
     margin-right: 5px;
     top: 200px;
     height: 175px;
-    width: 350px;
+    width: 400px;
     border-radius: 3px;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
@@ -31,7 +13,6 @@
     -webkit-box-shadow: 0px 0px 4px #f7e27b;
 }
 
-.link {
-    bottom: 0%;
-    
+#cimage {
+    margin: 100%;
 }
