@@ -1,6 +1,6 @@
 # react-portfolio
 
-  ![site.1](public/assets/ajsite.PNG)
+![repo.1](react-portfolio/public/assets/repo1.PNG)
 
 A responsive portfolio site with a displays for text data, portfolio items, and contact info. Portfolio Images are linked to individual pages. It utilizes Bootstrap grid system and incorporates accessibility standards.
 
@@ -27,13 +27,14 @@ A responsive portfolio site with a displays for text data, portfolio items, and 
 
 ## Features
 
-- Utilization of Bootsraps's containers and columns.
+- Dynamic css passed thru parents and childern.
 
-  ![code_Snippet.1](public/assets/modal.PNG)
+![repo2](react-portfolio/public/assets/repo2.PNG)
 
-- Responsive designs ensure image gallery optimal sizing... 
 
-![media_Q.1](public/assets/port.PNG)
+- React hooks and props utilized to map thru projects object and render data.
+
+![repo3](react-portfolio/public/assets/repo3.PNG)
 
 
 ## Deployed Link
@@ -50,6 +51,8 @@ A responsive portfolio site with a displays for text data, portfolio items, and 
 - [Github](https://github.com/ajhuff7)
 - [LinkedIn](https://www.linkedin.com/in/aj-huff-7696b14b/)
 
+
+![repo4](react-portfolio/public/assets/repo4.gif)
 
 
 ## License
