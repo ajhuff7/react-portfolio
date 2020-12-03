@@ -1,0 +1,9 @@
+
+#logo {
+    min-width: 25%;
+    height: 100%;
+    top: 40px;
+    margin-top: 40px;
+    /* z-index: 25; */
+    /* position: fixed; */
+}
