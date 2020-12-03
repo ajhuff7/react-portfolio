@@ -8,7 +8,7 @@ function Header(props) {
             <div className="row align-items-end">
                 <div className="col-6 col-sm-3">
                     <Link to="/">
-                        <img className="item img-thumbnail" src="assets/AJ2.png" alt="AJ Huff"></img>
+                        <img className="item img-thumbnail" src="../../assets/AJ2.png" alt="AJ Huff"></img>
                     </Link>
                 </div>
                 <div className="col-12 col-sm-3 text-center">
