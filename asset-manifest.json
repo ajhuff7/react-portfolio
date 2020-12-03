@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce93d4d4.chunk.css",
+    "main.js": "/static/js/main.b4ef6abf.chunk.js",
+    "main.js.map": "/static/js/main.b4ef6abf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7aeca448.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7aeca448.js.map",
+    "static/js/2.3bf66f8f.chunk.js": "/static/js/2.3bf66f8f.chunk.js",
+    "static/js/2.3bf66f8f.chunk.js.map": "/static/js/2.3bf66f8f.chunk.js.map",
+    "static/js/3.7d9ab076.chunk.js": "/static/js/3.7d9ab076.chunk.js",
+    "static/js/3.7d9ab076.chunk.js.map": "/static/js/3.7d9ab076.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ce93d4d4.chunk.css.map": "/static/css/main.ce93d4d4.chunk.css.map",
+    "static/js/2.3bf66f8f.chunk.js.LICENSE.txt": "/static/js/2.3bf66f8f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/Werble-12810C15A2.c0b443e4.GIF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7aeca448.js",
+    "static/js/2.3bf66f8f.chunk.js",
+    "static/css/main.ce93d4d4.chunk.css",
+    "static/js/main.b4ef6abf.chunk.js"
+  ]
+}
